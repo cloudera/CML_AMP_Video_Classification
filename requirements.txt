@@ -1,0 +1,14 @@
+absl-py==0.15.0
+imageio==2.10.1
+mediapy==1.0.3
+pandas==1.1.5
+numpy==1.19.4
+urllib3==1.26.5
+tqdm==4.62.3
+opencv-python-headless==4.5.4.58
+keras==2.6.0
+tensorflow-gpu==2.6.1
+tensorflow-docs @ git+https://github.com/tensorflow/docs@9aa08320ebb26befd08ad66515de291b9e2cbcaf
+tensorflow-hub==0.12.0
+tensorflow-estimator==2.6.0
+-e .
