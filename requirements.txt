@@ -7,6 +7,7 @@ urllib3==1.26.7
 tqdm==4.64.0
 opencv-python-headless==4.5.5.64
 keras==2.8.0
+protobuf==3.20
 tensorflow-gpu==2.8.0
 tensorflow-docs @ git+https://github.com/tensorflow/docs@9aa08320ebb26befd08ad66515de291b9e2cbcaf
 tensorflow-hub==0.12.0
