@@ -10,7 +10,6 @@ runtimes:
   - editor: Workbench
     kernel: Python 3.9
     edition: Standard
-    version: 2021.12
 
 tasks:
   - type: run_session
